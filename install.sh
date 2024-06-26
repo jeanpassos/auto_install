@@ -10,8 +10,8 @@ echo "#|_____/##\_____||_____/#|_____|###|_|###|______|";
 
 echo "==========================================================="
 echo "Patch Para instalação SNGREP, HTOP, MC E OUTROS para Issabel"
-echo "Autor Jean Passos - Empresa ITSCS"
-echo "https://www.itscs.com.br "
+echo "Autor Jean Passos - Empresa SCSITE"
+echo "https://www.scsite.com.br "
 echo "==========================================================="
 echo ""
 sleep 5
