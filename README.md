@@ -20,12 +20,7 @@
 -->
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/jeanpassos/discador-robo-cagece/">
-    <img src="images/discador." alt="Logo" width="80" height="80">
-  </a>
-readme-top
+
 <h3 align="center">Auto instalação </h3>
 
 <!--   <p align="center">
