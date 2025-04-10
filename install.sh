@@ -47,7 +47,7 @@ echo ""
 yum install mc -y
 sleep 5
 echo ""
-echo "Instalando MANO"
+echo "Instalando NANO"
 echo ""
 yum install nano -y
 sleep 5
