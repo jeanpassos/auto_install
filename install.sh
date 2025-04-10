@@ -49,7 +49,7 @@ sleep 5
 echo ""
 echo "Instalando MANO"
 echo ""
-yum install mano -y
+yum install nano -y
 sleep 5
 yum update
 echo ""
